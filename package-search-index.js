@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"classes"},{"l":"exceptions"},{"l":"windows"},{"l":"windows.audio"},{"l":"windows.controllers"},{"l":"worker"}];updateSearchResults();
